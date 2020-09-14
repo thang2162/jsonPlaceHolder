@@ -1,14 +1,14 @@
 {
   "whiteLabels": [
     {
-      id: 1,
-      name: "fytl",
-      url: "https://thang2162.wixsite.com/fytl2"
+      "id": 1,
+      "name": "fytl",
+      "url": "https://thang2162.wixsite.com/fytl2"
     },
     {
-      id: 2,
-      name: "pwngami",
-      url: "https://www.pwngami.com/"
+      "id": 2,
+      "name": "pwngami",
+      "url": "https://www.pwngami.com/"
     }
   ]
 }
